@@ -1,2 +1,2 @@
 # Stone-Smasher
-A 2D block breaker game
+A 2D block breaker game.

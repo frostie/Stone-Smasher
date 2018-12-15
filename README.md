@@ -5,4 +5,4 @@ A 2D block breaker game.
 - TBD
 
 ## Next Actions
-- TBD
+- Add gameplay screenshot to illustrate elements of game

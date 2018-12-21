@@ -9,6 +9,6 @@ A 2D block breaker game.
 
 ## Next Actions
 - Choose theme for game
-- Name game
+- Name game (current name is placeholder)
 - Find / create background image for core game
 - Add core gameplay screenshot to illustrate elements of game

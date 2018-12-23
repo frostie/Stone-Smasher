@@ -12,3 +12,4 @@ A 2D block breaker game.
 - Name game (current name is placeholder)
 - Find / create background image for core game
 - Add core gameplay screenshot to illustrate elements of game
+- Create score system with high score tracking

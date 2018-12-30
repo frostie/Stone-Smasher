@@ -8,6 +8,7 @@ A 2D block breaker game.
 - TBD
 
 ## Next Actions
+- Add points system
 - Choose theme for game
 - Name game (current name is placeholder)
 - Find / create background image for core game

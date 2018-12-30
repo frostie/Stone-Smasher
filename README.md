@@ -2,18 +2,17 @@
 A 2D block breaker game.
 
 ## Game Design
-- TBD
 
-## Level Design
-- TBD
-
-## Points
+### Points
 - Regular Block - 3 pts
 - Bronze Block - 6 pts
 - Silver Block - 12 pts
 - Gold Block - 24 pts
 - Platinum Block - 48 pts
 - Black Diamond - 100 pts
+
+## Level Design
+- TBD
 
 ## Next Actions
 - Add points system

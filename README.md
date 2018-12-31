@@ -20,5 +20,5 @@ A 2D block breaker game.
 - Choose theme for game
 - Name game (current name is placeholder)
 - Create original logo and visuals
-- Find / create background image for core game
-- Add core gameplay screenshot to illustrate elements of game
+- Find / create background images for all levels
+- Add core gameplay screenshot to GitHub to illustrate elements of game

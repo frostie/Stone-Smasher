@@ -19,6 +19,6 @@ A 2D block breaker game.
 - Create algorithm to track user high scores
 - Choose theme for game
 - Name game (current name is placeholder)
+- Create original logo and visuals
 - Find / create background image for core game
 - Add core gameplay screenshot to illustrate elements of game
-- Create score system with high score tracking

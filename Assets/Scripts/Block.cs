@@ -5,7 +5,6 @@ using UnityEngine;
 public class Block : MonoBehaviour {
 
     // Configuration parameters
-
     [SerializeField] AudioClip breakSound;
 
     // Cached references
@@ -24,6 +23,7 @@ public class Block : MonoBehaviour {
 
     private void DestroyBlock()
     {
+        FindObjectOfType<GameStatus>().AddPoints(); // Accesses the PlayerScore class and calls AddPoints()
         AudioSource.PlayClipAtPoint(breakSound, Camera.main.transform.position);
         Destroy(gameObject);
         level.BlockDestroyed();

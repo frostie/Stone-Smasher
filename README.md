@@ -12,7 +12,7 @@ A 2D block breaker game.
 - Black Diamond - 100 pts
 
 #### Elemental Blocks
-- Ice Block - 100 pts; slows time game speed for 10 seconds.
+- Ice Block - 100 pts; slows down game speed for 10 seconds
 
 ## Level Design
 - TBD

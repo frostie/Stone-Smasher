@@ -13,6 +13,7 @@ A 2D block breaker game.
 
 #### Elemental Blocks
 - Ice Block - 100 pts; slows down game speed for 10 seconds
+- Fire Block - 100 pts; destroys blocks within 1 unit radius
 
 #### Special Blocks
 - Black Diamond - 200 pts

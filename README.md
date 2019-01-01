@@ -3,13 +3,16 @@ A 2D block breaker game.
 
 ## Game Design
 
-### Points
+### Points & Effects
 - Regular Block - 3 pts
 - Bronze Block - 6 pts
 - Silver Block - 12 pts
 - Gold Block - 24 pts
 - Platinum Block - 48 pts
 - Black Diamond - 100 pts
+
+### Elemental Blocks
+- Ice Block - 100 pts; slows time game speed for 10 seconds.
 
 ## Level Design
 - TBD

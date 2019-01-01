@@ -10,10 +10,12 @@ A 2D block breaker game.
 - Silver Block - 12 pts
 - Gold Block - 24 pts
 - Platinum Block - 48 pts
-- Black Diamond - 100 pts
 
 #### Elemental Blocks
 - Ice Block - 100 pts; slows down game speed for 10 seconds
+
+#### Special Blocks
+- Black Diamond - 200 pts
 
 ## Level Design
 - TBD

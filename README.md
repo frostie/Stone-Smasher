@@ -6,7 +6,6 @@ A 2D block breaker game.
 ### Points & Effects
 
 #### Regular Blocks
-- Regular Block - 3 pts
 - Bronze Block - 6 pts
 - Silver Block - 12 pts
 - Gold Block - 24 pts

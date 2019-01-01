@@ -11,7 +11,7 @@ A 2D block breaker game.
 - Platinum Block - 48 pts
 - Black Diamond - 100 pts
 
-### Elemental Blocks
+#### Elemental Blocks
 - Ice Block - 100 pts; slows time game speed for 10 seconds.
 
 ## Level Design

@@ -26,4 +26,5 @@ A 2D block breaker game.
 - Choose theme for game
 - Name game (current name is placeholder)
 - Create original logo and visuals
+- Record original sound effects
 - Add core gameplay screenshot to GitHub to illustrate elements of game

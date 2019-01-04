@@ -7,9 +7,13 @@ public class Block : MonoBehaviour {
     // Configuration parameters
     [SerializeField] AudioClip breakSound;
     [SerializeField] GameObject blockSparklesVFX;
+    [SerializeField] int maxHits = 2;
 
     // Cached references
     Level level;
+
+    // State variables
+    [SerializeField] int timesHit; // TODO only serialized for debug purposes
 
     private void Start()
     {
@@ -27,7 +31,16 @@ public class Block : MonoBehaviour {
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (tag == "Breakable")
+        if (tag == "Breakable") 
+        {
+            HandleHit();
+        }
+    }
+
+    private void HandleHit()
+    {
+        timesHit++;
+        if (timesHit >= maxHits)
         {
             DestroyBlock();
         }

@@ -13,6 +13,7 @@ public class SceneLoader : MonoBehaviour {
 
     public void LoadStartScene()
     {
+        FindObjectOfType<GameSession>().ResetScore(); //NEW
         SceneManager.LoadScene(0);
     }
 

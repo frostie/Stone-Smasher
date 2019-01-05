@@ -18,6 +18,9 @@ A 2D block breaker game.
 #### Special Blocks
 - Black Diamond - 200 pts
 
+#### Special Effects
+- Power Ball - when in effect, destroys all blocks in one hit without bouncing back
+
 ## Level Design
 - TBD
 

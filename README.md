@@ -18,8 +18,9 @@ A 2D block breaker game.
 #### Special Blocks
 - Black Diamond - 200 pts
 
-#### Special Effects
+#### Special Items
 - Power Ball - when in effect, destroys all blocks in one hit without bouncing back for 5 seconds
+- Machine Gun - when in effect, machine gun fires bullets from paddle for 5 seconds
 
 ## Level Design
 - TBD

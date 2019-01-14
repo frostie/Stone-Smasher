@@ -27,7 +27,7 @@ A 2D block breaker game.
 
 ## Next Actions
 - Add damaged block effect
-- Write code to track user high scores
+- Write code to track user high scores in online database
 - Choose theme for game
 - Name game (current name is placeholder)
 - Create original logo and visuals

@@ -33,3 +33,6 @@ A 2D block breaker game.
 - Record original sound effects
 - Add core gameplay screenshot to GitHub to illustrate elements of game
 - Write code to track user high scores in online database
+
+## Credits
+- Foundational code provided by Ben Tristem's and Rick Davidson's "Complete C# Unity Developer 2D: Learn to Code Making Games"

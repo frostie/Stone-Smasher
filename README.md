@@ -26,7 +26,6 @@ A 2D block breaker game.
 - TBD
 
 ## Next Actions
-- Add damaged block effect
 - Choose theme for game
 - Name game (current name is placeholder)
 - Create original logo and visuals

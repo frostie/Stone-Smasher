@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -8,6 +9,7 @@ public class Block : MonoBehaviour {
     [SerializeField] AudioClip breakSound;
     [SerializeField] GameObject blockSparklesVFX;
     [SerializeField] int maxHits = 2;
+    [SerializeField] Sprite[] hitSprites;
 
     // Cached references
     Level level;
@@ -34,7 +36,14 @@ public class Block : MonoBehaviour {
         if (tag == "Breakable") 
         {
             HandleHit();
+            ShowNextHitSprite();
         }
+    }
+
+    private void ShowNextHitSprite()
+    {
+        int spriteIndex = timesHit - 1;
+        GetComponent<SpriteRenderer>().sprite = hitSprites[spriteIndex];
     }
 
     private void HandleHit()
@@ -56,7 +65,7 @@ public class Block : MonoBehaviour {
 
     private void PlayBlockDestroySFX()
     {
-        FindObjectOfType<GameSession>().AddPoints(); // Accesses the PlayerScore class and calls AddPoints()
+        FindObjectOfType<GameSession>().AddPoints(); // Accesses the GameSession class and calls AddPoints()
         AudioSource.PlayClipAtPoint(breakSound, Camera.main.transform.position);
     }
 

@@ -24,11 +24,11 @@ A 2D block breaker game.
 
 ## Level Design
 ### Level 1:
-- 30 1-hit stones
+- 1-hit stones (30)
 
 ### Level 2:
-- 30 1-hit stones
-- 3 2-hit stones
+- 1-hit stones (30)
+- 2-hit stones (3)
 
 ## Next Actions
 - Add three lives per session

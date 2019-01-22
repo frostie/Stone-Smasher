@@ -29,8 +29,8 @@ A 2D block breaker game.
 - Add three lives per session
 - Choose theme for game
 - Name game (current name is placeholder)
-- Create original logo and visuals
-- Record original sound effects
+- Create original logo and sprites
+- Record original sound effects and music
 - Add core gameplay screenshots to GitHub to illustrate elements of game
 - Write code to track user high scores in online database
 

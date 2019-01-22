@@ -26,6 +26,7 @@ A 2D block breaker game.
 - TBD
 
 ## Next Actions
+- Add three lives per session
 - Choose theme for game
 - Name game (current name is placeholder)
 - Create original logo and visuals

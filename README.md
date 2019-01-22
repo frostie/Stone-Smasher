@@ -23,7 +23,12 @@ A 2D block breaker game.
 - Machine Gun - when in effect, machine gun fires bullets from paddle for 5 seconds
 
 ## Level Design
-- TBD
+### Level 1:
+- 30 1-hit stones
+
+### Level 2:
+- 30 1-hit stones
+- 3 2-hit stones
 
 ## Next Actions
 - Add three lives per session

@@ -9,9 +9,11 @@ public class GameSession : MonoBehaviour {
     [Range(0.1f, 10f)] [SerializeField] float gameSpeed = 1f;
     [SerializeField] int pointsPerBlock = 10;
     [SerializeField] TextMeshProUGUI scoreText;
+    [SerializeField] TextMeshProUGUI livesText;
 
     // State variables
     [SerializeField] int playerScore = 0;
+    [SerializeField] int playerLives = 3;
 
     private void Awake ()
     {
@@ -31,6 +33,7 @@ public class GameSession : MonoBehaviour {
     void Start () 
     {
         scoreText.text = playerScore.ToString();
+        livesText.text = playerLives.ToString(playerLives + " Lives");
     }
 
     // Update is called once per frame
@@ -44,7 +47,7 @@ public class GameSession : MonoBehaviour {
         playerScore += pointsPerBlock;
         scoreText.text = playerScore.ToString();
     }
-    // NEW
+
     public void ResetScore ()
     {
         Destroy(gameObject);

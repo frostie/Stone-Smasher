@@ -18,6 +18,10 @@ A 2D block breaker game.
 #### Special Blocks
 - Black Diamond - 200 pts
 
+#### Falling Orbs
+- Crystal Orb - ??
+- 
+
 #### Special Items
 - Power Ball - destroys all blocks in one hit without bouncing back for 5 seconds
 - Machine Gun - machine gun fires bullets from paddle for 5 seconds

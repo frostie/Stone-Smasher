@@ -33,8 +33,10 @@ A 2D block breaker game.
 
 ## Next Actions
 - Add three lives per game session
-  - When playerLives - 1, reset ball position to paddle
-  - When playerLives <= 0, switch to Game Over screen
+  - When ball collides with LoseCollider:
+      - playerLives -= 1
+      - reset ball position to paddle
+  - When playerLives <= 0, show Game Over screen
 - Choose theme for game
 - Create original logo and sprites
 - Name game (current name is placeholder)

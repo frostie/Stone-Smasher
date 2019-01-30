@@ -20,7 +20,6 @@ A 2D block breaker game.
 
 #### Falling Orbs
 - Crystal Orb - ??
-- 
 
 #### Special Items
 - Power Ball - destroys all blocks in one hit without bouncing back for 5 seconds

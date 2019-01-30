@@ -32,7 +32,7 @@ A 2D block breaker game.
 - 2-hit stones (3)
 
 ## Next Actions
-- Add three lives per session
+- Add three lives per game session
 - Choose theme for game
 - Create original logo and sprites
 - Name game (current name is placeholder)

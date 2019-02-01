@@ -19,6 +19,7 @@ A 2D block breaker game.
 - Black Diamond - 200 pts
 
 #### Orbs
+// Orbs are held in place by stones and will fall once the stones holding it are destroyed.
 - Crystal Orb - ??
 
 #### Special Items

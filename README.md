@@ -20,7 +20,7 @@ A 2D block breaker game.
 
 #### Orbs
     Orbs are held in place by stones and will fall once the stones holding it are destroyed.
-- Crystal Orb - ??
+- Crystal Orb - 50
 
 #### Special Items
 - Power Ball - destroys all blocks in one hit without bouncing back for 5 seconds

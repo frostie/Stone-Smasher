@@ -18,7 +18,7 @@ A 2D block breaker game.
 #### Special Blocks
 - Black Diamond - 200 pts
 
-#### Falling Orbs
+#### Orbs
 - Crystal Orb - ??
 
 #### Special Items

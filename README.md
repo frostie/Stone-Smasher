@@ -6,17 +6,17 @@ A 2D block breaker game.
 ### Points & Effects
 
 #### Regular Blocks
-    - Bronze Block - 6 pts
-    - Silver Block - 12 pts
-    - Gold Block - 24 pts
-    - Platinum Block - 48 pts
+- Bronze Block - 6 pts
+- Silver Block - 12 pts
+- Gold Block - 24 pts
+- Platinum Block - 48 pts
 
 #### Elemental Blocks
-    - Ice Block - 100 pts; slows down game speed for 10 seconds
-    - Fire Block - 100 pts; destroys blocks within 1 unit radius
+- Ice Block - 100 pts; slows down game speed for 10 seconds
+- Fire Block - 100 pts; destroys blocks within 1 unit radius
 
 #### Special Blocks
-    - Black Diamond - 200 pts
+- Black Diamond - 200 pts
 
 #### Orbs
     Orbs are held in place by stones and will fall once the stones holding it are destroyed.

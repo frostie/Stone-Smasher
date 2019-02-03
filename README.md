@@ -11,17 +11,14 @@ A 2D block breaker game.
 - Gold Block - 24 pts
 - Platinum Block - 48 pts
 
-#### Elemental Stones
-- Ice Block - 100 pts; slows down game speed for 10 seconds
-- Fire Block - 100 pts; destroys blocks within 1 unit radius
-
 #### Special Stones
 - Black Diamond - 200 pts
 - Life Stone - Adds 1 life to player lives
 
 #### Orbs
     Orbs are held in place by stones and will fall once the stones holding it are destroyed.
-- Crystal Orb - 50
+- Ice Orb - 100 pts; slows down game speed for 10 seconds
+- Fire Orb - 100 pts; destroys blocks within 1 unit radius
 
 #### Special Items
 - Power Ball - destroys all blocks in one hit without bouncing back for 5 seconds

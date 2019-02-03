@@ -7,6 +7,11 @@ public class LoseCollider : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        SceneManager.LoadScene("Game Over");
+        FindObjectOfType<GameSession>().RemoveLife();
+        FindObjectOfType<Ball>().ResetBallPos();
+
+        /* TODO
+         * When playerLives <= 0, SceneManager.LoadScene("Game Over"); 
+        */
     }
 }

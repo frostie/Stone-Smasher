@@ -29,14 +29,12 @@ public class GameSession : MonoBehaviour {
         }
     }
 
-    // Use this for initialization
     void Start () 
     {
         scoreText.text = playerScore.ToString();
         livesText.text = playerLives.ToString(playerLives + " Lives");
     }
 
-    // Update is called once per frame
     void Update () 
     {
         Time.timeScale = gameSpeed;
@@ -46,6 +44,13 @@ public class GameSession : MonoBehaviour {
     {
         playerScore += pointsPerBlock;
         scoreText.text = playerScore.ToString();
+    }
+
+    // NEW (Jan 29, 2019)
+    public void RemoveLife ()
+    {
+        playerLives -= 1;
+        livesText.text = playerLives.ToString(playerLives + " Lives");
     }
 
     public void ResetScore ()

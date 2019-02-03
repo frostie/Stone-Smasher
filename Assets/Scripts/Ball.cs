@@ -26,7 +26,7 @@ public class Ball : MonoBehaviour {
 	}
 	
 	// Update called once per frame
-	void Update ()
+    void Update ()
     {
         if (!hasStarted)
         {
@@ -35,7 +35,7 @@ public class Ball : MonoBehaviour {
         }
     }
 
-    private void LaunchOnMouseClick()
+    void LaunchOnMouseClick()
     {
         if (Input.GetMouseButtonDown(0)) 
         {
@@ -44,10 +44,16 @@ public class Ball : MonoBehaviour {
         }
     }
 
-    private void LockBallToPaddle()
+    void LockBallToPaddle()
     {
         Vector2 paddlePos = new Vector2(paddle1.transform.position.x, paddle1.transform.position.y);
         transform.position = paddlePos + paddleToBallVector;
+    }
+
+    public void ResetBallPos()
+    {
+        hasStarted = false;
+        Update();
     }
 
     // Plays ball sound effects

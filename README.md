@@ -17,7 +17,7 @@ A 2D block breaker game.
 
 #### Special Stones
 - Black Diamond - 200 pts
-- Life Stone
+- Life Stone - Adds 1 life to player lives
 
 #### Orbs
     Orbs are held in place by stones and will fall once the stones holding it are destroyed.

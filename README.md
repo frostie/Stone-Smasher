@@ -5,18 +5,19 @@ A 2D block breaker game.
 
 ### Points & Effects
 
-#### Regular Blocks
+#### Regular Stones
 - Bronze Block - 6 pts
 - Silver Block - 12 pts
 - Gold Block - 24 pts
 - Platinum Block - 48 pts
 
-#### Elemental Blocks
+#### Elemental Stones
 - Ice Block - 100 pts; slows down game speed for 10 seconds
 - Fire Block - 100 pts; destroys blocks within 1 unit radius
 
-#### Special Blocks
+#### Special Stones
 - Black Diamond - 200 pts
+- Life Stone
 
 #### Orbs
     Orbs are held in place by stones and will fall once the stones holding it are destroyed.
@@ -37,9 +38,6 @@ A 2D block breaker game.
 
 ## Next Actions
 - Add three lives per game session
-  - When ball collides with LoseCollider:
-      - playerLives -= 1
-      - reset ball position to paddle 
   - Add point values for different blocks
   - When playerLives <= 0, show Game Over screen
 - Choose theme for game

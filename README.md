@@ -38,8 +38,9 @@ A 2D block breaker game.
 
 ## Next Actions
 - Add three lives per game session
-  - Add point values for different blocks
   - When playerLives <= 0, show Game Over screen
+- Add point values for different blocks
+- Add Life Stones to game
 - Choose theme for game
 - Create original logo and sprites
 - Name game (current name is placeholder)

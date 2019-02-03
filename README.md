@@ -39,7 +39,8 @@ A 2D block breaker game.
 - Add three lives per game session
   - When ball collides with LoseCollider:
       - playerLives -= 1
-      - reset ball position to paddle
+      - reset ball position to paddle 
+  - Add point values for different blocks
   - When playerLives <= 0, show Game Over screen
 - Choose theme for game
 - Create original logo and sprites

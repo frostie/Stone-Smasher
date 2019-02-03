@@ -50,7 +50,7 @@ A 2D block breaker game.
 
 ## Bugs
 - The following error message appears when a stone is destroyed:
-- IndexOutOfRangeException: Array index is out of range.
+    - IndexOutOfRangeException: Array index is out of range.
 - Message does not affect game play.
                 
 ## Credits

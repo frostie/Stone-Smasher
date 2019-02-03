@@ -51,7 +51,7 @@ A 2D block breaker game.
 ## Bugs
 - The following error message appears when a stone is destroyed:
     - IndexOutOfRangeException: Array index is out of range.
-- Message does not affect game play.
+    - Note: Message does not affect game play.
                 
 ## Credits
 - Foundational code provided by Ben Tristem's and Rick Davidson's "Complete C# Unity Developer 2D: Learn to Code Making Games" tutorials

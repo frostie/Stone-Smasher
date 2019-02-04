@@ -45,8 +45,7 @@ public class GameSession : MonoBehaviour {
         playerScore += pointsPerBlock;
         scoreText.text = playerScore.ToString();
     }
-
-    // NEW (Jan 29, 2019)
+	
     public void RemoveLife ()
     {
         playerLives -= 1;

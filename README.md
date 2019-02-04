@@ -21,8 +21,7 @@ A 2D block breaker game.
 
 #### Special Items
 - Power Ball - destroys all blocks in one hit without bouncing back for 5 seconds
-- Machine Gun - machine gun fires bullets from paddle for 5 seconds
-- Multi Ball - fires 10 disposable balls to accompany the main ball in destroying stones 
+- Multi Ball - fires 10 disposable balls to accompany the main ball in destroying stones
 
 ## Level Design
 ### Level 1:

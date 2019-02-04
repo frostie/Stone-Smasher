@@ -39,6 +39,7 @@ A 2D block breaker game.
 - Name game (current name is placeholder)
 - Record original sound effects and music
 - Add core gameplay screenshots to GitHub to illustrate elements of game
+- Create online database for high scores
 - Write code to track user high scores in online database
 
 ## Bugs

@@ -34,9 +34,6 @@ A 2D block breaker game.
 - 2-hit stones (3)
 
 ## Next Actions
-- Add three lives per game session
-  - When playerLives <= 0, show Game Over screen
-  - Reset playerLives to 3 when starting a new game
 - Add Life Stones to game
 - Add different point values for stones
 - Choose theme for game

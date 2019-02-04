@@ -4,6 +4,7 @@ A 2D block breaker game.
 Note: The game is currently in a protoype phase. Once original sprites are created, I will post screen shots of game play to the repo.
 
 Genre: Action
+
 Theme: Medieval
 
 ## Game Design

@@ -12,7 +12,6 @@ A 2D block breaker game.
 - Platinum Block - 48 pts
 
 #### Special Stones
-- Black Diamond - 200 pts
 - Life Stone - Adds 1 life to player lives
 
 #### Orbs

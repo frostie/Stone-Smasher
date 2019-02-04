@@ -3,6 +3,9 @@ A 2D block breaker game.
 
 Note: The game is currently in a protoype phase. Once original sprites are created, I will post screen shots of game play to the repo.
 
+Genre: Action
+Theme: Medieval
+
 ## Game Design
 
 ### Points & Effects
@@ -36,7 +39,6 @@ Note: The game is currently in a protoype phase. Once original sprites are creat
 ## Next Actions
 - Add Life Stones to game
 - Add different point values for stones
-- Choose theme for game
 - Create original logo and sprites
 - Name game (current name is placeholder)
 - Record original sound effects and music

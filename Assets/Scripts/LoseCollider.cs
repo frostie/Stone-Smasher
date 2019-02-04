@@ -9,9 +9,5 @@ public class LoseCollider : MonoBehaviour {
     {
         FindObjectOfType<GameSession>().RemoveLife();
         FindObjectOfType<Ball>().ResetBallPos();
-
-        /* TODO
-         * When playerLives <= 0, SceneManager.LoadScene("Game Over"); 
-        */
     }
 }

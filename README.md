@@ -12,10 +12,10 @@ Theme: Medieval
 ### Points & Effects
 
 #### Regular Stones
-- Bronze Block - 6 pts
-- Silver Block - 12 pts
-- Gold Block - 24 pts
-- Platinum Block - 48 pts
+- Bronze Stone - 6 pts
+- Silver Stone - 12 pts
+- Gold Stone - 24 pts
+- Platinum Stone - 48 pts
 
 #### Special Stones
 - Life Stone - Adds 1 life to player lives

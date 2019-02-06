@@ -47,6 +47,7 @@ Theme: Medieval
 - Write game synopsis
 - Create online database for high scores
     - Write code to track user high scores in online database
+- Deploy game on web browser!
 
 ## Bugs
 - The following error message appears when a stone is destroyed:

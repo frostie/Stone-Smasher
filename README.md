@@ -44,7 +44,7 @@ Theme: Medieval
 - Record original sound effects and music
 - Add core gameplay screenshots to GitHub to illustrate elements of game
 - Create online database for high scores
-- Write code to track user high scores in online database
+    - Write code to track user high scores in online database
 
 ## Bugs
 - The following error message appears when a stone is destroyed:

@@ -12,7 +12,7 @@ Theme: Medieval
 ### Points & Effects
 
 #### Regular Stones
-- Bronze Stone - 6 pts
+- Common Stone - 6 pts
 - Silver Stone - 12 pts
 - Gold Stone - 24 pts
 - Platinum Stone - 48 pts

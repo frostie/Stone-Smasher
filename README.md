@@ -49,8 +49,9 @@ Theme: Medieval
       - Note: Message does not affect game play.
 
 ## Deployment
-- Xerienstone will be available as a browser and desktop (PC, Mac, & Linux) game.
-- Mobile platforms (Android, iOS) will be tested
+- Browser (website TBD)
+- Desktop (PC, Mac, & Linux)
+- Mobile (Android & iOS) TBD
 
 ## Credits
 - Foundational code provided by Ben Tristem's and Rick Davidson's "Complete C# Unity Developer 2D: Learn to Code Making Games" tutorials

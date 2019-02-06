@@ -22,7 +22,7 @@ Theme: Medieval
 
 #### Orbs
     Orbs are held in place by stones and will fall once the stones holding it are destroyed.
-- Ice Orb - 100 pts; slows down game speed for 10 seconds
+- Ice Orb - 100 pts; slows down ball speed by 25% for 10 seconds
 - Fire Orb - 100 pts; destroys blocks within 1 unit radius
 
 #### Special Items

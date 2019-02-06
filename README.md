@@ -41,7 +41,6 @@ Theme: Medieval
 - Add Life Stones to game
 - Add different point values for stones
 - Create original logo and sprites
-- Name game (current name is placeholder)
 - Record original sound effects and music
 - Add core gameplay screenshots to GitHub to illustrate elements of game
 - Create online database for high scores

@@ -47,6 +47,10 @@ Theme: Medieval
 - The following error message appears when a stone is destroyed:
     - "IndexOutOfRangeException: Array index is out of range."
       - Note: Message does not affect game play.
-                
+
+## Deployment
+- Xerienstone will be available as a browser and desktop (PC, Mac, & Linux) game.
+- Mobile platforms (Android, iOS) will be tested
+
 ## Credits
 - Foundational code provided by Ben Tristem's and Rick Davidson's "Complete C# Unity Developer 2D: Learn to Code Making Games" tutorials

@@ -21,7 +21,7 @@ Theme: Medieval
 - Life Stone - Adds 1 life to player lives
 
 #### Orbs
-    Orbs are held in place by stones and will fall once the stones holding it are destroyed.
+> Orbs are held in place by stones and will fall once the stones holding it are destroyed.
 - Ice Orb - 100 pts; slows down ball speed by 25% for 10 seconds
 - Fire Orb - 100 pts; destroys blocks within 1 unit radius
 

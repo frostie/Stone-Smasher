@@ -1,7 +1,7 @@
 # **_Xerienstone_**
 A 2D breakout-style game.
 
-Note: The game is currently in a protoype phase. Once original sprites are created, screen shots of game play will be added to the repo.
+> Note: The game is currently in a protoype phase. Once original sprites are created, screen shots of game play will be added to the repo.
 
 Genre: Action-Arcade
 

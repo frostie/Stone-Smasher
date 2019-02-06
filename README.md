@@ -6,8 +6,6 @@ Xerienstone is a 2D breakout-style game with a medieval-fantasy theme.
 
 Genre: Action-Arcade
 
-Theme: Medieval
-
 ## Game Design
 
 ### Points & Effects

@@ -30,12 +30,7 @@ Theme: Medieval
 - Multi Ball - fires 10 disposable balls to accompany the main ball in destroying stones
 
 ## Level Design
-### Level 1:
-- 1-hit stones (30)
-
-### Level 2:
-- 1-hit stones (30)
-- 2-hit stones (3)
+### TBD
 
 ## Next Actions
 - Add different point values for stones

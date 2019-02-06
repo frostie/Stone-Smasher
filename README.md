@@ -38,6 +38,7 @@ Theme: Medieval
 - Create original logo and sprites
 - Add core gameplay screenshots to GitHub to illustrate elements of game
 - Record original sound effects and music
+- Write game synopsis
 - Create online database for high scores
     - Write code to track user high scores in online database
 

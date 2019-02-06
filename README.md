@@ -52,7 +52,7 @@ Theme: Medieval
 ## Bugs
 - The following error message appears when a stone is destroyed:
     - "IndexOutOfRangeException: Array index is out of range."
-      - Note: Message does not affect game play.
+      > Note: Message does not affect game play.
 
 ## Deployment
 - Browser (website TBD)

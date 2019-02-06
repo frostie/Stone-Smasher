@@ -40,6 +40,7 @@ Theme: Medieval
 ## Next Actions
 - Add Life Stones to game
 - Add different point values for stones
+- Create "Win" screen when all levels cleared
 - Create original logo and sprites
 - Add core gameplay screenshots to GitHub to illustrate elements of game
 - Record original sound effects and music

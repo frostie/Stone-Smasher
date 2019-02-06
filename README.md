@@ -37,6 +37,7 @@ Theme: Medieval
 - Add special items
 - Create "Win" screen when all levels cleared
 - Create original logo and sprites
+- Create medieval-themed UI
 - Add core gameplay screenshots to GitHub to illustrate elements of game
 - Record original sound effects and music
 - Write game synopsis

@@ -34,6 +34,7 @@ Theme: Medieval
 
 ## Next Actions
 - Add different point values for stones
+- Create and add special items to levels
 - Create "Win" screen when all levels cleared
 - Create original logo and sprites
 - Add core gameplay screenshots to GitHub to illustrate elements of game

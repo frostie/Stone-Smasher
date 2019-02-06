@@ -38,7 +38,6 @@ Theme: Medieval
 - 2-hit stones (3)
 
 ## Next Actions
-- Add Life Stones to game
 - Add different point values for stones
 - Create "Win" screen when all levels cleared
 - Create original logo and sprites

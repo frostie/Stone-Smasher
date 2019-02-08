@@ -53,6 +53,7 @@ Genre: Action-Arcade
 - The following error message appears when a stone is destroyed:
     - "IndexOutOfRangeException: Array index is out of range."
       > Note: Message does not affect game play.
+- The ball bounces back and forth between two colliders in a straight line and never bounces any other way
 
 ## Deployment
 - Browser (website TBD)

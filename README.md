@@ -32,7 +32,7 @@ Genre: Action-Arcade
 ### TBD
 
 ## Next Actions
-- Add Xerienstone point system
+- Add Xerienstone point system (100 pts = 1 Xerienstone)
 - Add rigidity to boundary colliders and paddle
 - Add different point values for stones
 - Add special items
@@ -41,7 +41,7 @@ Genre: Action-Arcade
 - Create medieval-themed UI which includes:
     - Player score
     - Player lives
-    - Number of Xerienstones (100 pts = 1 Xerienstone)
+    - Number of Xerienstones
     - Active effects
 - Add core gameplay screenshots to GitHub to illustrate elements of game
 - Record original sound effects and music

@@ -32,6 +32,7 @@ Genre: Action-Arcade
 ### TBD
 
 ## Next Actions
+- Add Xerienstone point system
 - Add rigidity to boundary colliders and paddle
 - Add different point values for stones
 - Add special items

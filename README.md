@@ -32,7 +32,7 @@ Genre: Action-Arcade
 ### TBD
 
 ## Next Actions
-- Add rigidity to boundary colliders
+- Add rigidity to boundary colliders and paddle
 - Add different point values for stones
 - Add special items
 - Create "Win" screen when all levels cleared

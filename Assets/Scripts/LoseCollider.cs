@@ -7,7 +7,14 @@ public class LoseCollider : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        FindObjectOfType<GameSession>().RemoveLife();
-        FindObjectOfType<Ball>().ResetBallPos();
+        if (GameSession.playerLives <= 0) 
+        {
+            FindObjectOfType<SceneLoader>().LoadGameOverScene();
+        }
+        else
+        {
+            FindObjectOfType<GameSession>().RemoveLife();
+            FindObjectOfType<Ball>().ResetBallPos();
+        }
     }
 }

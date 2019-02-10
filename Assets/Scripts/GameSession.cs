@@ -10,10 +10,12 @@ public class GameSession : MonoBehaviour {
     [SerializeField] int pointsPerBlock = 10;
     [SerializeField] TextMeshProUGUI scoreText;
     [SerializeField] TextMeshProUGUI livesText;
+    [SerializeField] TextMeshProUGUI xerienText;
 
     // State variables
     [SerializeField] int playerScore = 0;
-    [SerializeField] int playerLives = 3;
+    [SerializeField] public static int playerLives = 3;
+    [SerializeField] int xerienScore = 0;
 
     private void Awake ()
     {
@@ -33,6 +35,7 @@ public class GameSession : MonoBehaviour {
     {
         scoreText.text = playerScore.ToString();
         livesText.text = playerLives.ToString(playerLives + " Lives");
+        xerienText.text = xerienScore.ToString(xerienScore + " Xerienstones");
     }
 
     void Update () 
@@ -45,7 +48,23 @@ public class GameSession : MonoBehaviour {
         playerScore += pointsPerBlock;
         scoreText.text = playerScore.ToString();
     }
-	
+
+    public void AddLife ()
+    {
+        playerLives += 1;
+        livesText.text = playerLives.ToString(playerLives + " Lives");
+    }
+
+    public void AddXerien()
+    {
+        if (playerScore == 10) 
+        {
+            xerienScore += 1;
+        }
+
+        xerienText.text = xerienScore.ToString(xerienScore + " Xerienstones");
+    }
+
     public void RemoveLife ()
     {
         playerLives -= 1;
@@ -55,5 +74,10 @@ public class GameSession : MonoBehaviour {
     public void ResetScore ()
     {
         Destroy(gameObject);
+    }
+
+    public void ResetLives ()
+    {
+        playerLives = 3;
     }
 }

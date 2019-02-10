@@ -37,6 +37,12 @@ public class Block : MonoBehaviour {
             HandleHit();
             ShowNextHitSprite();
         }
+        if (tag == "Life Stone") 
+        {
+            HandleHit();
+            DestroyBlock();
+            FindObjectOfType<GameSession>().AddLife();
+            }
     }
 
     private void ShowNextHitSprite()
@@ -66,13 +72,19 @@ public class Block : MonoBehaviour {
     {
         PlayBlockDestroySFX();
         Destroy(gameObject);
-        level.BlockDestroyed();
         TriggerSparklesVFX();
+
+        if (tag == "Breakable")
+        {
+            level.BlockDestroyed();
+        }
     }
 
     private void PlayBlockDestroySFX()
     {
         FindObjectOfType<GameSession>().AddPoints(); // Accesses the GameSession class and calls AddPoints()
+        FindObjectOfType<GameSession>().AddXerien();
+
         AudioSource.PlayClipAtPoint(breakSound, Camera.main.transform.position);
     }
 

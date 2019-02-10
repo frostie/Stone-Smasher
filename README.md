@@ -32,7 +32,7 @@ Genre: Action-Arcade
 ### TBD
 
 ## Next Actions
-- Add Xerienstone point system (100 pts = 1 Xerienstone)
+- Add Xerienstone point system (TBD)
 - Add rigidity to boundary colliders and paddle
 - Add different point values for stones
 - Add special items

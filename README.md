@@ -1,6 +1,6 @@
 ![alt_text](https://github.com/frostie/Xerienstone/blob/master/Assets/Screen%20Shots/Xerienstone%20Title.png)
 
-> _Currently in a protoype phase. Once original sprites are created, screen shots of game play will be added to the repo._
+> _Currently in a protoype phase. Once original sprites are created, screen shots of gameplay will be added to the repo._
 
 Xerienstone is a 2D breakout-style game with a medieval-fantasy theme.
 

@@ -36,7 +36,7 @@ Genre: Action-Arcade
 - Add rigidity to boundary colliders and paddle
 - Add different point values for stones
 - Add special items
-- Increase ball speed for more complex levels
+- Increase/decrease ball speed for more complex levels
 - Create "Win" screen when all levels cleared
 - Create original logo and sprites
 - Create medieval-themed UI which includes:

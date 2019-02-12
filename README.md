@@ -2,7 +2,7 @@
 
 > _Currently in a protoype phase. Once original sprites are created, screen shots of gameplay will be added to the repo._
 
-Xerienstone is a 2D breakout-style game with a medieval-fantasy theme.
+Xerienstone is a 2D breakout-style game with a medieval-fantasy theme. Destroy all stones to uncover the map for each level.
 
 Genre: Action-Arcade
 

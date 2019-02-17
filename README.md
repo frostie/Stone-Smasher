@@ -32,8 +32,8 @@ Genre: Action-Arcade
 ### TBD
 
 ## Next Actions
-- Add shop screen after every level clearance to purchase effects, etc.
 - Add rigidity to boundary colliders and paddle
+- Add shop screen after every level clearance to purchase effects, etc.
 - Add different point values for stones
 - Add special items
 - Increase/decrease ball speed for more complex levels

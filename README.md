@@ -12,6 +12,7 @@ Genre: Action-Arcade
 
 #### Regular Stones
 - Common Stone - 6 pts
+![alt_text](https://github.com/frostie/Xerienstone/blob/master/Assets/Sprites/xerienstone-common%20stone.png)
 - Silver Stone - 12 pts
 - Gold Stone - 24 pts
 - Platinum Stone - 48 pts

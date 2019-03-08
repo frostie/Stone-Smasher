@@ -83,7 +83,7 @@ public class Block : MonoBehaviour {
     private void PlayBlockDestroySFX()
     {
         FindObjectOfType<GameSession>().AddPoints(); // Accesses the GameSession class and calls AddPoints()
-        FindObjectOfType<GameSession>().AddXerien();
+        //FindObjectOfType<GameSession>().AddXerien();
 
         AudioSource.PlayClipAtPoint(breakSound, Camera.main.transform.position);
     }

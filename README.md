@@ -42,7 +42,7 @@ Genre: Action-Arcade
 - Create medieval-themed UI which includes:
     - Player score
     - Player lives
-    - Number of Xerienstones
+    - Number of Xerienstones (TBD)
     - Active effects
 - Add core gameplay screenshots to GitHub to illustrate elements of game
 - Record original sound effects and music

@@ -52,10 +52,11 @@ Genre: Action-Arcade
 - Deploy game on web browser for open beta testing!
 
 ## Bugs
+- Ball velocity slows down as game progresses
 - Sometimes the ball bounces back and forth between two colliders in a straight line and never bounces any other way
 - The following error message appears when a stone is destroyed:
     - "IndexOutOfRangeException: Array index is out of range."
-      > Note: Message does not affect game play.
+      > Note: Message does not affect game play
 
 ## Deployment
 - Browser (website TBD)

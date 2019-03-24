@@ -65,3 +65,4 @@ Genre: Action-Arcade
 
 ## Credits
 - Foundational code provided by Ben Tristem's and Rick Davidson's "Complete C# Unity Developer 2D: Learn to Code Making Games" tutorials
+- Coin set sprites created by LoversHorizon

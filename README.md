@@ -13,15 +13,14 @@ Genre: Action-Arcade
 #### Charms
 - Common Charm - 6 pts
 - Blue Charm - 12 pts
-- Purple Charm - 24 pts
-- Indigo Charm - 48 pts
-- Ivory Stone - 96 pts
+- Indigo Charm - 24 pts
+- Ivory Charm - 48 pts
 
-#### Special Stones
-- Life Stone - Adds 1 life to player lives
+#### Special Charm
+- Life Charm - Adds 1 life to player lives
 
 #### Orbs
-> Orbs are held in place by stones and will fall once the stones holding it are destroyed.
+> An orb is held in place by charms and will fall once the charms holding it are destroyed.
 - Ice Orb - 100 pts; slows down ball speed by 25% for 10 seconds
 - Fire Orb - 100 pts; destroys blocks within 1 unit radius
 
@@ -35,7 +34,7 @@ Genre: Action-Arcade
 ## Next Actions
 - Add rigidity to boundary colliders and paddle
 - Add shop screen after every level clearance to purchase effects, etc.
-- Add different point values for stones
+- Add different point values for charms
 - Add special items
 - Increase/decrease ball speed for more complex levels
 - Create "Win" screen when all levels cleared
@@ -55,7 +54,7 @@ Genre: Action-Arcade
 ## Bugs
 - Ball velocity slows down as game progresses
 - Sometimes the ball bounces back and forth between two colliders in a straight line and never bounces any other way
-- The following error message appears when a stone is destroyed:
+- The following error message appears when a charm is destroyed:
     - "IndexOutOfRangeException: Array index is out of range."
       > Note: Message does not affect game play
 

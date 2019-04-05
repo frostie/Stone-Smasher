@@ -12,9 +12,10 @@ Genre: Action-Arcade
 
 #### Charms
 - Common Charm - 6 pts
-- Silver Stone - 12 pts
-- Gold Stone - 24 pts
-- Platinum Stone - 48 pts
+- Blue Charm - 12 pts
+- Purple Charm - 24 pts
+- Indigo Charm - 48 pts
+- Ivory Stone - 96 pts
 
 #### Special Stones
 - Life Stone - Adds 1 life to player lives
